@@ -1,0 +1,9 @@
+{
+    "locales": ["en", "hi", "fr", "ar"],
+    "defaultLocale": "en",
+    "pages": {
+      "*": ["common"],
+      "/": ["index"],
+      "/faq": ["faq"]
+    }
+  }
